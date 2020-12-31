@@ -1,7 +1,7 @@
 # Unity Texture Viewer
 An android app to get texture from unity3d file<br/>
 This app still in development for some Texture Format's<br/>
-So far tested and work with Unity 3.4+/4/5/2017
+So far tested and work with Unity 3.4+/4/5/6/2017
 
 Texture Format decoders that has been tested
 - [ ] Alpha8
