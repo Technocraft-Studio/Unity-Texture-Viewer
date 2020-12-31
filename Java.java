@@ -1,4 +1,4 @@
-package tapanuli.technocraft.studio.unitytexture;
+package tapanuli.technocraft.studio.unitytextureviewer;
 
 public class Java {
 }
