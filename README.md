@@ -1,6 +1,6 @@
 # UnityTextureViewer
-An android app(java) to get texture from unity3d file__ 
-This app still in development for some Texture Format's__
+An android app(java) to get texture from unity3d file<br/>
+This app still in development for some Texture Format's<br/>
 So far tested and work with Unity 3.4+/4/5/2017
 
 Texture Format decoders that has been tested
@@ -42,4 +42,4 @@ Texture Format decoders that has been tested
 - [ ] ASTC_HDR_12x12
 - [ ] RG16
 
-It would be greatly appreciated if you have any ideas for the unchecked decoder's above__ App in action -> https://www.youtube.com/watch?v=Lr636cVJfms
+It would be greatly appreciated if you have any ideas for the unchecked decoder's above<br/> App in action -> https://www.youtube.com/watch?v=Lr636cVJfms
