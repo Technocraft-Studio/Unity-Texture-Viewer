@@ -1,4 +1,4 @@
-package tapanuli.technocraft.studio.unitytexture.Activity;
+package tapanuli.technocraft.studio.unitytexture;
 
 public class Java {
 }
