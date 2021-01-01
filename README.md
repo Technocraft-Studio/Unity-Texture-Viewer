@@ -11,7 +11,7 @@ Texture Format decoders that has been tested
 - [x] ARGB32 
 - [x] RGB565 
 - [x] RGBA4444
-- [ ] ETC_RGB4
+- [x] ETC_RGB4
 - [ ] BGRA32 
 - [ ] RHalf
 - [ ] RGHalf 
