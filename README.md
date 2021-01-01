@@ -10,7 +10,8 @@ Texture Format decoders that has been tested
 - [x] RGBA32 
 - [x] ARGB32 
 - [x] RGB565 
-- [x] RGBA4444 
+- [x] RGBA4444
+- [ ] ETC_RGB4
 - [ ] BGRA32 
 - [ ] RHalf
 - [ ] RGHalf 
@@ -21,7 +22,6 @@ Texture Format decoders that has been tested
 - [ ] RGB9e5Float 
 - [ ] PVRTC_RGB2
 - [ ] PVRTC_RGB4
-- [ ] ETC_RGB4 (most wanted)
 - [ ] ASTC_RGB_4x4
 - [ ] ASTC_RGBA_4x4
 - [ ] ASTC_HDR_4x4
@@ -43,5 +43,4 @@ Texture Format decoders that has been tested
 - [ ] RG16
 
 It would be greatly appreciated if you have any ideas for the unchecked decoder's above<br/>
-ETC_RGB4 (most wanted) <br/>
 App in action -> https://www.youtube.com/watch?v=Lr636cVJfms
