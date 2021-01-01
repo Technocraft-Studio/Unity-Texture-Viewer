@@ -42,5 +42,4 @@ Texture Format decoders that has been tested
 - [ ] ASTC_HDR_12x12
 - [ ] RG16
 
-It would be greatly appreciated if you have any ideas for the unchecked decoder's above<br/>
 App in action -> https://www.youtube.com/watch?v=Lr636cVJfms
