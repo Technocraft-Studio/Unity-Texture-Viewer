@@ -80,5 +80,5 @@ Tested Encoding
 - [ ] ASTC_RGBA_12x12
 - [ ] ASTC_HDR_12x12
 - [ ] RG16
-- [ ] 
+ 
 App in action -> https://www.youtube.com/watch?v=Lr636cVJfms
